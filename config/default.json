@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://Phurpa:phurpa123@befriends.fyn2s.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://Phurpa:phurpa123@befriends.fyn2s.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "jwtSecret"
 }
